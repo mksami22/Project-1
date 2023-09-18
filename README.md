@@ -1,5 +1,3 @@
-# GITS
-
 ## Working demo of GITS - Youtube Video
 
 [Video](https://www.youtube.com/watch?v=u9UkXMBHkmo&ab_channel=SamiMK)
