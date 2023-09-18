@@ -13,3 +13,7 @@
 | Schedule Bot      | [Schedule Bot Rubric](https://github.com/mksami22/Project-1/blob/main/Rubric/ScheduleBot.md)         |
 | Stock Prediction  | [Stock Prediction Rubric](https://github.com/mksami22/Project-1/blob/main/Rubric/StockPrediction.md) |
 | Teacher's Pet Bot | [Teacher's Pet Bot Rubric](https://github.com/mksami22/Project-1/blob/main/Rubric/TeachersPetBot.md) |
+
+## 750 words essay about difficulties faced during implementation
+
+[Essay](https://github.com/mksami22/Project-1/blob/main/Essay.md)
